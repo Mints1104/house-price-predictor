@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoint directories
+.ipynb_checkpoints/
+
+# PyCharm / VS Code / IDE files (if you use them)
+.idea/
+.vscode/
+
+# Any cached files
+__pycache__/
+*.pyc
+.DS_Store # Mac specific
